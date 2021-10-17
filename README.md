@@ -1,6 +1,6 @@
 **ABOUT ME**
 
-I am a programmer with about 4 years of experience in various languages.
+I am a programmer with 4 years of experience in various languages.
 I have entry-level skills in Python, C, and C++.
 
 I am currently focused on learning web development using Odin Project. 
