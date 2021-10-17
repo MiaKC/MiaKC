@@ -1,4 +1,4 @@
-ABOUT ME:
+**ABOUT ME**
 
 I am a programmer with about 5 years of experience in various languages.
 I have entry-level skills in Python, C, and C++.
@@ -10,9 +10,14 @@ I am a hobbyist game developer, working in Godot Engine with GDscript. My curren
 
 In my free time I am also a musician and songwriter. I play guitar, bass, assorted string instruments, keyboards, drums/percussion, and vocals
 
-LINKS:
+-----
 
-TWITTER:
-ITCH.IO: 
-PERSONAL WEB SITE:
-EMAIL:
+**LINKS**
+
+Twitter
+
+Itch.io
+
+Personal Website
+
+Email
