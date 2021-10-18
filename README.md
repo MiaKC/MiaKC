@@ -8,7 +8,7 @@ My goal is to demonstrate web development skills through my own website, and bec
 
 I am a hobbyist game developer, working in Godot Engine with GDscript. My current game development project is an untitled business simulator about making and selling jams. I have a few finished games, but I hope to make this one the first that is worthy of publishing.
 
-In my free time I am also a musician and songwriter. I play guitar, bass, assorted string instruments, keyboards, drums/percussion, and vocals
+In my free time I am also a musician/songwriter.
 
 -----
 
